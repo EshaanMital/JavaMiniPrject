@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=rps
+comment1.params=
+comment1.target=void\ five()
+comment2.params=
+comment2.target=java.lang.String\ getComputerMove()
+comment3.params=
+comment3.target=java.lang.String\ getPlayerMove()
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=battleship
+comment1.params=
+comment1.target=void\ eight()
+comment2.params=board
+comment2.target=void\ initBoard(int[][])
+comment3.params=board
+comment3.target=void\ showBoard(int[][])
+comment4.params=ships
+comment4.target=void\ initShips(int[][])
+comment5.params=shoot
+comment5.target=void\ shoot(int[])
+comment6.params=shoot\ ships
+comment6.target=boolean\ hit(int[],\ int[][])
+comment7.params=shoot\ ships\ attempt
+comment7.target=void\ hint(int[],\ int[][],\ int)
+comment8.params=shoot\ ships\ board
+comment8.target=void\ changeboard(int[],\ int[][],\ int[][])
+numComments=9
